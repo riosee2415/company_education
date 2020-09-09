@@ -1,0 +1,14 @@
+{
+  "name": "company-education",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "4leaf.ysh <4leaf.ysh@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
